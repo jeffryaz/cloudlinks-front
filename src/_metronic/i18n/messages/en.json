@@ -43,7 +43,7 @@
   "LABEL.SUCCESS":"Success",
   "LABEL.RESULT":"Result",
   "LABEL.ALERT.COPY_URL":"URL copied",
-  "LABEL.PRICE":"Harga",
+  "LABEL.PRICE":"Price",
   "LABEL.REQUEST_FAILED": "The request failed. System Error, Please try again.",
   "LABEL.CREATED": "Created",
   "LABEL.PAGE_NOT_FOUND": "Ooops Your page not found",
