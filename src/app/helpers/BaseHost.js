@@ -1,1 +1,1 @@
-export const SERVER = "http://service.cloudlinks.site";
+export const SERVER = "https://service.cloudlinks.site";
