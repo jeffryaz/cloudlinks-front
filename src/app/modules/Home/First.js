@@ -77,7 +77,7 @@ const First = (props) => {
 
   return (
     <React.Fragment>
-      <header
+      <div
         className="masthead"
         style={{
           backgroundImage: `url(${toAbsoluteUrl(
@@ -255,7 +255,7 @@ const First = (props) => {
             </CardBody>
           </Card>
         </div>
-      </header>
+      </div>
       <footer
         id="sticky-footer"
         className="flex-shrink-0 py-4 bg-dark text-white-50"
