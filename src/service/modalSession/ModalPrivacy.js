@@ -40,7 +40,7 @@ function ModalPrivacy() {
                 <h6>We don't share your link except you.</h6>
               </li>
               <li>
-                <h6>This service is created by IT Meta JAR Company.</h6>
+                <h6>This service is created by Jeffry Azhari Rosman.</h6>
               </li>
             </ul>
           </div>
