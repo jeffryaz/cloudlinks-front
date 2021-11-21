@@ -2,7 +2,7 @@
     "name": "cloudlinks",
     "version": "0.0.1",
     "private": true,
-    "homepage": "https://cloudlinks.site/cloudlinks-front/build/",
+    "homepage": "./",
     "scripts": {
         "start": "set PORT=3002 && react-scripts start -o",
         "build": "rimraf ./build && react-scripts build"
